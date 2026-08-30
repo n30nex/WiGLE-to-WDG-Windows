@@ -1,0 +1,7 @@
+.env
+.wigle_to_wdg_state.json
+.wigle_to_wdg_state.json.*
+wigle_to_wdg.log
+out/
+__pycache__/
+*.pyc
